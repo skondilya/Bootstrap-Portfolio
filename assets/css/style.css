@@ -6,7 +6,7 @@
   border-bottom: 2px solid #ccc;
 }
 
-/*sidebar*/
+/*main heading*/
 .bg-2 {
   font-family: 'Georgia', Times, Times New Roman, serif;
   text-align: center;
@@ -17,10 +17,7 @@
   background: #4aaaa5;
 }
 
-/*nav tab*/
-nav {
-  margin-top: 25px;
-}
+
 
 nav a {
   margin-left: 15px;
@@ -61,6 +58,7 @@ h1{
  
 body {
   line-height: 32px;
+  font: 'Arial', 'Helvetica Neue', Helvetica, sans-serif !important;
 }
 
 a{
